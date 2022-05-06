@@ -1,13 +1,14 @@
 # Projeto_IBI
 
-Projeto desenvolvido para a disciplina de Algoritmos e Programação II, do curso de Sistemas de informação( IFCE- Campus Crato).
+Projeto desenvolvido para a disciplina de Algoritmos e Programação II, do curso de Sistemas de Informação (IFCE- Campus Crato).
 
 Participantes:
 
 David Waters Teixeira Rodrigues;
 Rafael Pereira de Souza
 Vicente de Paulo Vidal Alencar;
-Victor Jerrysson Gama Bastos.
+Victor Jerrysson Gama Bastos;
+Willian Alves Batista.
 
 Professor: Yuri Lacerda.
 

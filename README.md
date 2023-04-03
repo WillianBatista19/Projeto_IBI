@@ -5,7 +5,7 @@ Projeto desenvolvido para a disciplina de Algoritmos e Programação II, do curs
 Participantes:
 
 David Waters Teixeira Rodrigues;
-Rafael Pereira de Souza
+Rafael Pereira de Souza;
 Vicente de Paulo Vidal Alencar;
 Victor Jerrysson Gama Bastos;
 Willian Alves Batista.
